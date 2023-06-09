@@ -1,8 +1,12 @@
 print('Hello World!')
 
+<<<<<<< HEAD
 print('new branch!!!')
 print('new branch!!!')
 print('new branch!!!')
 print('new branch!!!')
 print('new branch!!!')
 print('new branch!!!')
+=======
+print('New branch is created!')
+>>>>>>> b39a2bdc2f9b79e8924468f79c214c1b0c6d59fb
